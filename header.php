@@ -11,4 +11,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header class="guideline">
+        <nav class="navbar navbar-expand-lg navbar-dark guideline">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto ms-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Menus</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About & Careers</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+            <a class="navbar-brand ms-auto me-auto" href="#">
+                <h1>
+                    debonaire
+                </h1>    
+            </a>
+            <span class="navbar-text ms-auto me-auto">
+                Book an Appoitment
+            </span>
+            </div>
+        </div>
+        </nav>
+    </header>
+
+
+        
 

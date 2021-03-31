@@ -7,5 +7,4 @@ Integration of [landing page](https://www.figma.com/community/file/8247160641184
 - [DM Sans](https://www.cdnfonts.com/dm-sans.font)
 
 ## Screenshot
-
 ![Screeshot of the landing page](https://romainp.promo-68.codeur.online/debonaire-maquette/images/screenshot.jpg)
