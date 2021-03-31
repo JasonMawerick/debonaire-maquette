@@ -1,11 +1,11 @@
 @import url('http://fonts.cdnfonts.com/css/lexend-deca');
 @import url('http://fonts.cdnfonts.com/css/dm-sans');
 
-/* Tempo */
+/* tempo */
 .guideline{
     border: 1px dotted red;
 }
-/* Tempo */
+/* /tempo */
 
 body{
     font-family: 'DM Sans', sans-serif;
@@ -19,9 +19,12 @@ h1, h2, h3, h4, h5{
 
 #first-section__img{
     margin-left: -12vw;
-    z-index: 0;
 }
 
 #first-section__title{
-    z-index: 1;
+    font-size: 2.2rem;
+}
+
+#first-section__subtitle{
+    
 }
