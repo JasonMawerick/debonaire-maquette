@@ -1,0 +1,12 @@
+@import url('http://fonts.cdnfonts.com/css/lexend-deca');
+@import url('http://fonts.cdnfonts.com/css/dm-sans');
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    background-color: #DFCCC2;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Lexend Deca', sans-serif;
+    color: #FFFFFF;
+}
