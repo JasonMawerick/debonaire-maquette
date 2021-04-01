@@ -28,3 +28,26 @@ h1, h2, h3, h4, h5{
 #first-section__subtitle{
     
 }
+
+#second-section__background{
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+}
+
+#third-section__background{
+    background-color: #C5CEBD;
+    background-image: url('images/background-3.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#third-section__image-right{
+    position: absolute;
+    bottom: -8vh;
+}
+
+#third-section__title{
+    font-size: 3.5rem;
+    margin-left: -240px;
+}
